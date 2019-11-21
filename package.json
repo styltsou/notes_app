@@ -1,0 +1,16 @@
+{
+  "name": "notes_app",
+  "version": "1.0.0",
+  "description": "Note taking app that runs in the terminal",
+  "main": "app.js",
+  "scripts": {
+    "note": "node app.js"
+  },
+  "keywords": [],
+  "author": "Stylianos Tsoumanis",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "yargs": "^13.3.0"
+  }
+}
